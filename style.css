@@ -1,0 +1,29 @@
+.header{
+    background-color: teal;
+    padding: 10px;
+    margin-bottom: 100px;
+}
+
+footer{
+    background-color: teal;
+    color: #fff;
+    padding:20px;
+    margin-top: 100px;
+}
+
+#covidtable{
+    color: royalblue;
+}
+
+body{
+    background-image: linear-gradient(120deg, #89f7fe 0%, #66a6ff 100%);
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #000;
+}
